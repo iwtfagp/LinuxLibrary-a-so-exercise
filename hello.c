@@ -1,2 +1,2 @@
 #include <stdio.h>
-void hello(){printf(“Hello“);}
+void hello(){printf("Hello");}
